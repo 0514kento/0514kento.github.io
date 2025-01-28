@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "projects/project_b/index.html",
+    "href": "projects/project_b/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project B"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kento Morita",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is an about me page\n\nimport pandas as pd\nimport numpy as np\n\n\n\nHello! Thank you for visiting KENTO’s personal website! I would like to share my backgroud and personal lives. Again, I am Kento Morita, virtuous race, from Japan majoring in MS in Business Analytics (Data Science) as a master’s student at UCI a.k.a The Paul Merage School of Business. I completed Bachelor of Data Science at Yokohama City Univeresity =&gt; this uni is 🧢 cuz it’s not located at city part of Yokohama, meaning there’s nothing around there."
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "About",
+    "section": "",
+    "text": "Hello! Thank you for visiting KENTO’s personal website! I would like to share my backgroud and personal lives. Again, I am Kento Morita, virtuous race, from Japan majoring in MS in Business Analytics (Data Science) as a master’s student at UCI a.k.a The Paul Merage School of Business. I completed Bachelor of Data Science at Yokohama City Univeresity =&gt; this uni is 🧢 cuz it’s not located at city part of Yokohama, meaning there’s nothing around there."
+  },
+  {
+    "objectID": "projects/project_a/index.html",
+    "href": "projects/project_a/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project A"
+  }
+]
