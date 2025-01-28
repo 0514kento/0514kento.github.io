@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+
+# About this site
+
+This is an about me page
+
+```{python}
+import pandas as pd
+import numpy as np
+```
+
+## Who am I?
+
+Hello! Thank you for visiting KENTO's personal website! I would like to share my backgroud and personal lives.
+Again, I am Kento Morita, virtuous race, from Japan majoring in MS in Business Analytics (Data Science) as a master's student at UCI a.k.a The Paul Merage School of Business. I completed Bachelor of Data Science at Yokohama City Univeresity => this uni is 🧢 cuz it's not located at city part of Yokohama, meaning there's nothing around there.
+
+# What is my Mission?
